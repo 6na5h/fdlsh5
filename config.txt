@@ -1,6 +1,5 @@
-﻿token=NTE2MzEzNjM4NjAwOTY2MTY1.Dtx2VA.l6STqjyTYVe5ndqTDLQBRiS_PmE
-owner=465811762386567168
-prefix= C
-game= Cplay
+token=NTE2MDc2MTQ0Nzg1NjIxMDAz.DtuZDQ.OV_hD6YOxDmzbQkza_VHPXBW3Ns
+owner=353857391646998528
+prefix= 5
 stayinchannel=true
 songinstatus=true 
